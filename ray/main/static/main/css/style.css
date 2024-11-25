@@ -1,0 +1,27 @@
+h1{
+    color: black;
+}
+body{
+    display: flex;
+}
+aside{
+    
+    width: 300px;
+    height: 1080px;
+    
+    padding: 50px;
+    background: grey;
+}
+main{
+    padding: 50px;
+    
+}
+.navigation{
+    position: fixed;
+    color: black;
+}
+.link{
+    color: black;
+    text-decoration: none;
+    
+}
